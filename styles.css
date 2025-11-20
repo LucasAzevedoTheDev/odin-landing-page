@@ -66,7 +66,7 @@ h2 {
   width: 500px;
 }
 
-button {
+.first-button {
   background-color: #3882F6;
   color: white;
   padding: 8px 13px;
@@ -124,4 +124,36 @@ h3 {
   text-align: right;
   font-size: 20px;
   font-weight: 900;
+}
+
+.call {
+  background-color: #3882F6;
+  width: 70%;
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  border-radius: 8px;
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: space-evenly;
+  color: white;
+  padding: 30px;
+}
+
+.call-text h4 {
+  margin-bottom: 0;
+}
+
+.call-text p {
+  margin-top: 0;
+}
+
+.second-button {
+  background-color: #3882F6;
+  color: white;
+  padding: 8px 13px;
+  border-radius: 7px;
+  border: 2px solid white;
 }

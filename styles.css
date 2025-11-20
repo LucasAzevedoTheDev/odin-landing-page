@@ -100,3 +100,28 @@ h3 {
   width: 150px;
   text-align: center;
 }
+
+.quote-section {
+  background-color: #E5E7EB;
+  padding: 55px;
+}
+
+.quote {
+  width: 60%;
+  margin: auto;
+  padding-top: 15px;
+}
+
+.quotation {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 300;
+  text-align: center;
+  font-style: italic;
+}
+
+.credits {
+  text-align: right;
+  font-size: 20px;
+  font-weight: 900;
+}
